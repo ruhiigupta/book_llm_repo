@@ -1,0 +1,26 @@
+# LLM Book Project - Requirements
+
+# Core LLM & API
+groq>=0.4.0
+openai>=1.0.0
+
+# Vector Database & Embeddings
+chromadb>=0.4.0
+sentence-transformers>=2.2.0
+
+# Image Processing
+Pillow>=10.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.65.0
+requests>=2.28.0
+
+# YouTube Transcripts (optional - only if downloading transcripts)
+youtube-transcript-api>=0.6.0
+
+# PDF Generation (requires external tools)
+# - Pandoc: https://pandoc.org/installing.html
+# - XeLaTeX: Install via TeX Live (https://www.tug.org/texlive/) or MiKTeX (https://miktex.org/)
+#
+# After installing Pandoc and XeLaTeX, no additional pip packages needed.

@@ -1,0 +1,64 @@
+{
+  "total_chapters": 9,
+  "good": 9,
+  "ok": 0,
+  "bad": 0,
+  "bad_files": [],
+  "ok_files": [],
+  "details": [
+    {
+      "file": "chapter_01.md",
+      "words": 588,
+      "issues": [],
+      "quality": "good"
+    },
+    {
+      "file": "chapter_02.md",
+      "words": 655,
+      "issues": [],
+      "quality": "good"
+    },
+    {
+      "file": "chapter_03.md",
+      "words": 600,
+      "issues": [],
+      "quality": "good"
+    },
+    {
+      "file": "chapter_04.md",
+      "words": 393,
+      "issues": [],
+      "quality": "good"
+    },
+    {
+      "file": "chapter_05.md",
+      "words": 700,
+      "issues": [],
+      "quality": "good"
+    },
+    {
+      "file": "chapter_06.md",
+      "words": 812,
+      "issues": [],
+      "quality": "good"
+    },
+    {
+      "file": "chapter_07.md",
+      "words": 875,
+      "issues": [],
+      "quality": "good"
+    },
+    {
+      "file": "chapter_08.md",
+      "words": 1034,
+      "issues": [],
+      "quality": "good"
+    },
+    {
+      "file": "chapter_09.md",
+      "words": 1145,
+      "issues": [],
+      "quality": "good"
+    }
+  ]
+}

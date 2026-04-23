@@ -1,0 +1,7 @@
+{
+  "total_chunks": 2159,
+  "model": "all-MiniLM-L6-v2",
+  "embedding_type": "local_sentence_transformer",
+  "similarity": "cosine",
+  "batch_size": 64
+}

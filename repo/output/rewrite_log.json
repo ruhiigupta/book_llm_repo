@@ -1,0 +1,210 @@
+{
+  "total_sections_rewritten": 41,
+  "details": [
+    {
+      "file": "chapter_01.md",
+      "section": "Introduction",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_01.md",
+      "section": "Understanding the Series Overview",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_01.md",
+      "section": "Large Language Models Basics",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_01.md",
+      "section": "Pretraining LLMs vs Finetuning LLMs",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_02.md",
+      "section": "Introduction",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_02.md",
+      "section": "Introduction to Transformers",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_02.md",
+      "section": "Understanding GPT-3 Architecture",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_02.md",
+      "section": "Stages of Building an LLM from Scratch",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_03.md",
+      "section": "Introduction",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_03.md",
+      "section": "Tokenization in NLP",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_03.md",
+      "section": "Byte Pair Encoding for Tokenization",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_03.md",
+      "section": "Creating Input-Target Data Pairs",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_04.md",
+      "section": "Introduction",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_04.md",
+      "section": "Understanding Token Embeddings",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_04.md",
+      "section": "Importance of Positional Embeddings",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_05.md",
+      "section": "Introduction",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_05.md",
+      "section": "Introduction to the Attention Mechanism",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_05.md",
+      "section": "Simplified Attention Mechanism",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_05.md",
+      "section": "Self-Attention Mechanism with Key, Query, and Value Matrices",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_06.md",
+      "section": "Introduction",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_06.md",
+      "section": "Birds Eye View of the LLM Architecture",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_06.md",
+      "section": "Layer Normalization in the LLM Architecture",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_06.md",
+      "section": "GELU Activation Function",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_06.md",
+      "section": "Shortcut Connections in the LLM Architecture",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_07.md",
+      "section": "Introduction",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_07.md",
+      "section": "Generating Text with LLMs",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_07.md",
+      "section": "Measuring LLM Loss Function",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_07.md",
+      "section": "Temperature and Top-K Sampling",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_07.md",
+      "section": "Evaluating LLM Performance",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_08.md",
+      "section": "Introduction",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_08.md",
+      "section": "Saving and Loading Model Weights",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_08.md",
+      "section": "Loading OpenAI Pretrained Weights",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_08.md",
+      "section": "Fine-Tuning for Text Classification",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_08.md",
+      "section": "Building a Spam Classifier",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_08.md",
+      "section": "Evaluating the Classification Model",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_09.md",
+      "section": "Introduction",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_09.md",
+      "section": "Introduction to Instruction Fine-Tuning",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_09.md",
+      "section": "Data Batching and Dataloaders",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_09.md",
+      "section": "Instruction Fine-Tuning Training Loop",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_09.md",
+      "section": "Evaluating the Fine-Tuned Model",
+      "status": "rewritten"
+    },
+    {
+      "file": "chapter_09.md",
+      "section": "Future Directions and Next Steps",
+      "status": "rewritten"
+    }
+  ]
+}

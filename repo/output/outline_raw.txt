@@ -1,0 +1,85 @@
+{
+  "book_title": "Building Large Language Models from Scratch",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Introduction to Building LLMs",
+      "video_indices": [1, 2, 3],
+      "sections": [
+        "Series Introduction and Overview",
+        "Large Language Models (LLM) Basics",
+        "Pretraining LLMs vs Finetuning LLMs"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Foundational Concepts in LLMs",
+      "video_indices": [4, 5, 6],
+      "sections": [
+        "What are Transformers?",
+        "How does GPT-3 really work?",
+        "Stages of building an LLM from Scratch"
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "LLM Tokenization and Data Preparation",
+      "video_indices": [7, 8, 9],
+      "sections": [
+        "Code an LLM Tokenizer from Scratch in Python",
+        "The GPT Tokenizer: Byte Pair Encoding",
+        "Creating Input-Target data pairs using Python DataLoader"
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "Understanding LLM Embeddings and Positional Encoding",
+      "video_indices": [10, 11, 12],
+      "sections": [
+        "What are token embeddings?",
+        "The importance of Positional Embeddings",
+        "The entire Data Preprocessing Pipeline of Large Language Models (LLMs)"
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Attention Mechanism in LLMs",
+      "video_indices": [13, 14, 15],
+      "sections": [
+        "Introduction to the Attention Mechanism in Large Language Models (LLMs)",
+        "Simplified Attention Mechanism - Coded from scratch in Python",
+        "Coding the self attention mechanism with key, query and value matrices"
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "Multi-Head Attention and LLM Architecture",
+      "video_indices": [16, 17, 18],
+      "sections": [
+        "Causal Self Attention Mechanism",
+        "Multi Head Attention Part 1 - Basics and Python code",
+        "Multi Head Attention Part 2 - Entire mathematics explained"
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "chapter_title": "Building and Training LLMs",
+      "video_indices": [19, 20, 21],
+      "sections": [
+        "Birds Eye View of the LLM Architecture",
+        "Layer Normalization in the LLM Architecture",
+        "GELU Activation Function in the LLM Architecture"
+      ]
+    },
+    {
+      "chapter_number": 8,
+      "chapter_title": "Implementing and Fine-Tuning LLMs",
+      "video_indices": [22, 23, 24],
+      "sections": [
+        "Shortcut connections in the LLM Architecture",
+        "Coding the entire LLM Transformer Block",
+        "Coding the 124 million parameter GPT-2 model"
+      ]
+    }
+  ]
+}
